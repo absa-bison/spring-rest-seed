@@ -25,6 +25,10 @@ tests using Maven:
 ```
 $ ./mvnw test
 ```
+Forked from
+https://github.com/absa-bison/spring-rest-seed
+
+Will be used as a seed project to test editors with.
 
 ---
 Created by [Atomist][atomist].
